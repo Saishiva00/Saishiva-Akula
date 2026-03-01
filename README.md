@@ -1,4 +1,8 @@
-# Hi there, I'm Saishiva Akula! 👋
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋;Java+Developer;Spring+Boot+Developer;Python+Developer;Cybersecurity+Enthusiast" />
+
+</p>
 
 <div align="center">
 
