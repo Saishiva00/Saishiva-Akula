@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=80&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋" />
+<img src="banner.png" width="100%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0D47A1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋;Java+Developer;Python+Developer;Spring+Boot+Developer;Cybersecurity+Enthusiast" />
 
 </div>
 <div align="center">
