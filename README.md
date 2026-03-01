@@ -1,9 +1,8 @@
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋;Java+Developer;Spring+Boot+Developer;Python+Developer;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=80&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋" />
 
-</p>
-
+</div>
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Python+%26+FastAPI+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things!)
