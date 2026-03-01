@@ -3,10 +3,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Python+%26+FastAPI+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things!)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saishiva-akula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saishivaakula/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saishiva-akula)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishivaakula9381@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 
 
@@ -19,17 +19,15 @@ public class SaishivaAkula {
 
     String name        = "Saishiva Akula";
     String location    = "Hyderabad, India 🇮🇳";
-    String role        = "Full Stack Developer | Backend Developer";
-    String[] focus     = {"Java", "Python", "Spring Boot", "Cybersecurity"};
+    String[] focus     = {"Java", "Python", "SQL", "Cybersecurity"};
     String learning    = "Spring Security | Docker | Cloud Deployment";
-    String openTo      = "Entry-level Java / Python / Backend roles";
+    String openTo      = "Entry-level Java / Python / Backend roles/ Cybersecurity Roles";
     String funFact     = "I debug with coffee ☕ and determination 💪";
 
     void currentlyDoing() {
         System.out.println("🔨 Building production-ready Spring Boot apps");
         System.out.println("🔒 Exploring Cybersecurity and Threat Intelligence");
         System.out.println("☁️  Learning Cloud Deployment on Railway & Netlify");
-        System.out.println("📚 Strengthening DSA and System Design skills");
     }
 }
 ```
@@ -48,7 +46,13 @@ public class SaishivaAkula {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### Data Science Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -123,18 +127,6 @@ public class SaishivaAkula {
 | 🐍 Python for Data Science | Coursera | Python, Data Analysis, NumPy, Pandas |
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saishiva-akula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishiva-akula&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saishiva-akula&theme=tokyonight&hide_border=true)
-
-</div>
 
 
 ## 📫 Let's Connect!
