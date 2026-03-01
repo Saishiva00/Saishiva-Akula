@@ -14,7 +14,8 @@
 
 ## 👨‍💻 About Me
 
-```public class SaishivaAkula {    
+```java
+public class SaishivaAkula {    
 
     String name        = "Saishiva Akula";
     String location    = "Hyderabad, India 🇮🇳";
