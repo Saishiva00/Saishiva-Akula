@@ -1,7 +1,4 @@
-<div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0D47A1&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Saishiva+Akula!+👋;Java+Developer;Python+Developer;Spring+Boot+Developer;Cybersecurity+Enthusiast" />
-
-</div>
+#Hi there, I'm Saishiva Akula! 👋
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D47A1&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Python+%26+FastAPI+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+New+Things!)
