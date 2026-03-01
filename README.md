@@ -13,27 +13,22 @@
 
 ## 👨‍💻 About Me
 public class SaishivaAkula {
-    String name      = "Saishiva Akula";
-    String location  = "Hyderabad, India 🇮🇳";
-    String[] focus = {
-        "Java",
-        "Python",
-        "SQL",
-        "Cybersecurity"
-    };
-    String learning =
-        "Spring Security | Docker | Cloud Deployment";
-    String openTo =
-        "Entry-level Java / Python Backend Roles / Cybersecurity Roles";
-    String funFact =
-        "I debug with coffee ☕ and determination 💪";
+
+    String name        = "Saishiva Akula";
+    String location    = "Hyderabad, India 🇮🇳";
+    String role        = "Full Stack Developer | Backend Developer";
+    String[] focus     = {"Java", "Python", "Spring Boot", "Cybersecurity"};
+    String learning    = "Spring Security | Docker | Cloud Deployment";
+    String openTo      = "Entry-level Java / Python / Backend roles";
+    String funFact     = "I debug with coffee ☕ and determination 💪";
+
     void currentlyDoing() {
         System.out.println("🔨 Building production-ready Spring Boot apps");
         System.out.println("🔒 Exploring Cybersecurity and Threat Intelligence");
-        System.out.println("☁️ Learning Cloud Deployment on Railway & Netlify");
+        System.out.println("☁️  Learning Cloud Deployment on Railway & Netlify");
+        System.out.println("📚 Strengthening DSA and System Design skills");
     }
 }
-
 ## 🛠️ Tech Stack
 
 ### Languages
