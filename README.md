@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-public class SaishivaAkula {    
+```public class SaishivaAkula {    
 
     String name        = "Saishiva Akula";
     String location    = "Hyderabad, India 🇮🇳";
@@ -30,7 +30,7 @@ public class SaishivaAkula {
         System.out.println("📚 Strengthening DSA and System Design skills");
     }
 }
-
+```
 ## 🛠️ Tech Stack
 
 ### Languages
