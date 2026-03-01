@@ -9,12 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishivaakula9381@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
-</div>
-<div align="center">
 
-<img src="banner.png" alt="Saishiva Akula Banner" width="100%">
-
-</div>
 
 ---
 
