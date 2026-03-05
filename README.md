@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saishivaakula/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saishiva-akula)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishivaakula9381@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saishiva00.github.io/Saishiva-portfolio)
 </div>
 
 
@@ -80,8 +80,8 @@ public class SaishivaAkula {
 <div align="center">
 
 ### 📚 Library Management System
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saishiva-akula/library-management-system)
-[![Live](https://img.shields.io/badge/Live_Demo-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saishiva00/Library_Management_System)
+[![Live](https://img.shields.io/badge/Live_Demo-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://librarymanagementsystem-saishiva.netlify.app)
 
 </div>
 
@@ -102,7 +102,9 @@ public class SaishivaAkula {
 <div align="center">
 
 ### 🛡️ Threat Intelligence Dashboard
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saishiva-akula/threat-intelligence-dashboard)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saishiva00/Threat-Intelligence-Dashboard)
+[![Live](https://img.shields.io/badge/Live_Demo-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://github.com/Saishiva00/Threat-Intelligence-Dashboard)
+
 
 </div>
 
@@ -134,9 +136,9 @@ public class SaishivaAkula {
 <div align="center">
 
 I'm actively looking for **entry-level opportunities** in:
-`Java Development` | `Data Analyst` | `Full Stack Development` | `Python Development` | `Power Apps`
+`Java Development` | `Data Analyst` | `Full Stack Development` | `Python Development` | `Power Apps` | `LowCode-NoCode`
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saishiva-akula)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saishivaakula)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saishivaakula9381@gmail.com)
 
 </div>
